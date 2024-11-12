@@ -6,6 +6,6 @@ public class Despedida {
         System.out.println("Dime tu nombre ");
         String nom = teclado.nextLine();
         System.out.println("Adios " + nom);
-
+teclado.close();
    } 
 }
