@@ -5,7 +5,7 @@ public class Despedida {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Dime tu nombre ");
         String nom = teclado.nextLine();
-        System.out.println("Adios " + nom);
+        System.out.println("Nos vemos " + nom);
 teclado.close();
    } 
 }
