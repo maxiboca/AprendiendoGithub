@@ -7,6 +7,7 @@ public class Saludo{
         System.out.println("Dime tu nombre");
         String nom = teclado.nextLine();
         System.out.println("hola " + nom);
+        System.out.println("Este es una prueba de sincronizacion");
     
 teclado.close();
     }
