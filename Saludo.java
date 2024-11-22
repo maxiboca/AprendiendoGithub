@@ -6,7 +6,7 @@ public class Saludo{
         Scanner teclado = new Scanner (System.in);
         System.out.println("Dime tu nombre");
         String nom = teclado.nextLine();
-        System.out.println("hola " + nom);
+        System.out.println("hola " + nom + " Hace mucho que no nos vemosgi");
     
 teclado.close();
     }
